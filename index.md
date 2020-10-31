@@ -11,16 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 **ADDIS CORNERS**
-## Header 2 **ADDIS CHURCHS**
-### Header 3 **ADDIS MARKETS**
+# **ADDIS CORNERS**
 
 - KAZANCHIS
 - MERCATO
 - ARAT KILO
 
+## **ADDIS CHURCHS**
+
 - GABRELLE
 - BE ATA
+
+### **ADDIS MARKETS**
 
 -MERKATO
 -SHOLA
